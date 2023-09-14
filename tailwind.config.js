@@ -17,6 +17,9 @@ module.exports = {
       fontFamily: {
         primary: ['Space Grotesk', 'sans-serif'],
       },
+      aspectRatio: {
+        '16/9': '16 / 9',
+      },
     },
   },
   plugins: [],
